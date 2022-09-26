@@ -6,7 +6,7 @@
 <h3 align="center">skystorage.io</h3>
 <div id="banner" style="overflow: hidden; display: inline-block;">
   <p align='center'>
-      <img style='width: 45%;' src='https://raw.githubusercontent.com/just-save-pty-ltd/.github/main/profile/SkyStorageLogo-White.svg'>
+      <img style='width: 45%;' src='https://github.com/just-save-pty-ltd/.github/blob/main/profile/SkyStorageLogo-White.png?raw=true'>
   </p>
 </div>
 
