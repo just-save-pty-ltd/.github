@@ -19,6 +19,7 @@
       <img src='https://justsave.com.au/static/partners/IBM.png' style='width: 20%'>
       <img src='https://justsave.com.au/static/partners/Seagate.png' style='width: 20%'>
       <img src='https://justsave.com.au/static/partners/Cisco.png' style='width: 20%'>
+      <img src='https://justsave.com.au/static/partners/Linode.png' style='width: 20%'>
       <img src='https://justsave.com.au/static/partners/myob.png' style='width: 20%'>
       <img src='https://justsave.com.au/static/partners/eBay.png' style='width: 20%'>
       <img src='https://justsave.com.au/static/partners/Shopify.png' style='width: 20%'>
