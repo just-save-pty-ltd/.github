@@ -29,13 +29,8 @@
 <h3 align="center">Our Projects:</h3>
 <div id="banner" style="overflow: hidden; display: inline-block;">
   <p align='center'>
-      <img src='https://justsave.com.au/static/projects/SkyStorage.png' style='width: 20%;'>
-      <img src='https://justsave.com.au/static/projects/LifepoPower.png' style='width: 20%'>
-      <img src='https://justsave.com.au/static/projects/SkyComputer.png' style='width: 20%'>
-      <img src='https://justsave.com.au/static/projects/MySelfSuper.png' style='width: 20%'>
-      <img src='https://justsave.com.au/static/projects/ManufacturingWealth.png' style='width: 20%'>
-      <img src='https://justsave.com.au/static/projects/BoostedTrading.png' style='width: 20%'>
-      <img src='https://justsave.com.au/static/projects/GreenGreenAustralia.png' style='width: 20%'>
+      <img src='https://justsave.com.au/static/projects/SkyStorage.png' style='width: 25%;'>
+      <img src='https://justsave.com.au/static/projects/OnlyTechSolutions.png' style='width: 25%;'>
   </p>
 </div>
 
