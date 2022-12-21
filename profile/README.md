@@ -26,7 +26,7 @@
   </p>
 </div>
 
-<h3 align="center">Our Projects:</h3>
+<h3 align="center">Our Divisions:</h3>
 <div id="banner" style="overflow: hidden; display: inline-block;">
   <p align='center'>
       <img src='https://justsave.com.au/static/projects/SkyStorage.png' style='width: 25%;'>
